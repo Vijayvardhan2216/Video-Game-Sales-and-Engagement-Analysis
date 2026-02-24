@@ -1,7 +1,7 @@
 # Video-Game-Sales-and-Engagement-Analysis
 An in-depth analysis of video game sales and user engagement data to identify key factors influencing game performance and commercial success.
 
-**Project Overview :-** This project conducts a comprehensive analysis of video game sales and user engagement data. The primary goal is to identify the key factors that significantly influence game performance and commercial success, enabling data-driven decisions for game development, marketing strategies, platform prioritization, and sales forecasting.
+**Project Overview :-** This project conducts a comprehensive analysis of video game sales and user engagement data. The primary goal is to identify the key factors that significantly influence game performance and commercial success, enabling data-driven decisions for game development, marketing strategies, platform prioritization and sales forecasting.
 
 **Objective:** To analyze video game sales and user engagement data to identify key factors influencing game performance and commercial success. The analysis aims to support data-driven decisions for game development, marketing strategies, platform prioritization and sales forecasting, ultimately leading to optimized resource allocation and increased profitability.
 
@@ -45,7 +45,7 @@ The analysis followed a structured Exploratory Data Analysis (EDA) approach, int
 
 **1. Data Wrangling:** Merging two datasets (Game Engagement Data and Sales Data) on game title, standardizing column names and handling duplicates/missing values.
 
-**2. Exploratory Data Analysis (EDA):** Conducting univariate, bivariate and multivariate analysis to understand data distributions, variable relationships, and the impact of engagement metrics, genres, platforms, and regions on sales.
+**2. Exploratory Data Analysis (EDA):** Conducting univariate, bivariate and multivariate analysis to understand data distributions, variable relationships and the impact of engagement metrics, genres, platforms and regions on sales.
 
 **3. Visualization:** Creating various charts (scatter plots, bar charts, heatmaps, pair plots) to visualize relationships and trends.
 
